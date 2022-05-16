@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kofimensah
-- 👀 I’m interested in Data Science, Machine Learning and Quantitive Research
+- 👀 I’m interested in using Machine Learning and Data tools to analyze financial data.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ML projects and exploring data.
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/kofianamoamensah/
